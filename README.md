@@ -1,6 +1,6 @@
 # The Simplest GitHub Page
 
-A test of hosting a projects GitHub page.
+A test of hosting a projects [website](https://chrmel.github.io/simplest-github-page/) with *GitHub Pages*.
 
 ## Further Steps
 See:
